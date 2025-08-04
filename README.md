@@ -12,7 +12,7 @@ Neema Naledi
 *__The Problem__:* The company is establishing a new movie studio to expand into original content production. An analysis of current box office trends is underway to identify high-performing film genres and translate these findings into strategic creative direction.
 
 ## Data Understanding
-**Data sets used**:[text](tmdb.movies.csv.gz) and [text](tn.movie_budgets.csv.gz)
+**Data sets used**:[(tmdb.movies.csv.gz)] and [(tn.movie_budgets.csv.gz)]
 
 
 ### Data Preparation
