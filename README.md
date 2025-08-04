@@ -88,8 +88,7 @@ Create a fork.
 
 - Type: git clone
 (you can clone using either *SSH key*  or the *HTTPS*)
-*SSH key*:[git@github.com:veenaledi/DS-Phase-2-Project.git]
-*HTTPS*[(https://github.com/veenaledi/DS-Phase-2-Project.git)]
+[(https://github.com/veenaledi/DS-Phase-2-Project.git)]
 
 ## Key Findings
 1. High-budget films (>$100M) can achieve massive returns but carry significant financial risk
@@ -111,11 +110,11 @@ To run the cells press ctrl+shift
 You'll need to download the datasets required
 
 ## Technologies Used
-Python: Primary programming language
-Pandas: Data manipulation and analysis
-Matplotlib: Data visualization
-Jupyter Notebook: Development environment
-Git: Commit and push to remote repository
+- Python: Primary programming language
+- Pandas: Data manipulation and analysis
+- Matplotlib: Data visualization
+- Jupyter Notebook: Development environment
+- Git: Commit and push to remote repository
 
 ## Contributions
 
