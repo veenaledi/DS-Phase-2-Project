@@ -4,7 +4,7 @@
 Neema Naledi
 
 ## Overview
-This project analyzes box office data to provide strategic insights for a new movie studio entering the film production market. The analysis examines financial performance, genre trends, and production budgets to identify the most profitable opportunities in the film industry.
+This project analyzes box office data to provide strategic insights for a new movie studio entering the film production market. The analysis examines financial performance and production budgets to identify the most profitable opportunities in the film industry.
 
 - **Tableau Dashboard**:[https://public.tableau.com/app/profile/naledi.ambuku/viz/FilmMakingEntryAnalysisDashboard/TheDashboard?publish=yes]
 
