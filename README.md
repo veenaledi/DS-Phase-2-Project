@@ -1,4 +1,4 @@
-### Film Making Entry Analysis Report
+# Film Making Entry Analysis Report
 
 ## Author
 Neema Naledi
@@ -8,7 +8,7 @@ This project analyzes box office data to provide strategic insights for a new mo
 
 - **Tableau Dashboard**:[https://public.tableau.com/app/profile/naledi.ambuku/viz/FilmMakingEntryAnalysisDashboard/TheDashboard?publish=yes]
 
-### Business Understanding
+## Business Understanding
 *__The Problem__:* The company is establishing a new movie studio to expand into original content production. An analysis of current box office trends is underway to identify high-performing film genres and translate these findings into strategic creative direction.
 
 *__Objectives__:* The primary business goal is to maximize profitability while minimizing financial risk in the highly competitive film industry.
@@ -43,7 +43,7 @@ This project analyzes box office data to provide strategic insights for a new mo
 - Data was merged using inner join to the id column then duplicates were removed from the title column.
 - It is easier to analyze a smaller dataset rather than a large dataset with multiple empty spaces. 
 
-### Data Preparation
+## Data Preparation
 1. __*Data Cleaning*__
 - Decompression of .csv.gz files
 
@@ -61,7 +61,7 @@ This project analyzes box office data to provide strategic insights for a new mo
 - profit = worldwide_gross - production_budget
 - roi = (profit / production_budget) × 100
 
-### Modeling
+## Modeling
 __Visual Data Analysis:__
 - Production Budget vs Worldwide Gross Revenue scatter plots
 - Average Movie Gross Revenue by Release Year
@@ -73,7 +73,7 @@ __Visual Data Analysis:__
 - Top Performances: High Budget vs Low Budget Success Charts
 - Vote Average vs Box Office Performance
 
-### Evaluation
+## Evaluation
 1. Holiday (Nov-Dec): Strong performance for family-friendly content.
 2. Summer (May-Aug): 35% higher average gross than other seasons
 3. Analysis based on past performance may not predict future trends
@@ -107,7 +107,9 @@ Create a fork.
 
 ## Testing
 To run the cells press ctrl+shift
-You'll need to download the datasets required
+You'll need to download the datasets required 
+You can get the datasets from:
+[https://github.com/learn-co-curriculum/dsc-phase-2-project-v3/tree/main/zippedData]
 
 ## Technologies Used
 - Python: Primary programming language
@@ -117,7 +119,6 @@ You'll need to download the datasets required
 - Git: Commit and push to remote repository
 
 ## Contributions
-
 Contributions to the Film Making Entry Analysis Report are welcome! If you have any suggestions, bug fixes, or additional features you'd like to add to the dashoard, please feel free to submit a pull request or open an issue.
 
 ## Support
